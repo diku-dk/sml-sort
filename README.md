@@ -1,4 +1,4 @@
-# sml-sort [![Build Status](https://travis-ci.org/diku-dk/sml-sort.svg?branch=master)](https://travis-ci.org/diku-dk/sml-sort)
+# sml-sort [![CI](https://github.com/diku-dk/sml-sort/workflows/CI/badge.svg)](https://github.com/diku-dk/sml-sort/actions)
 
 Standard ML sorting package.
 
