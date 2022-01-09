@@ -3,7 +3,7 @@
 (** Optimized for Moscow ML                                    **)
 (** modified for the MLKit, 2001-06-07                         **)
 
-structure Listsort : LISTSORT =
+structure ListSort : LIST_SORT =
   struct
     fun sort ordr xs =
       let

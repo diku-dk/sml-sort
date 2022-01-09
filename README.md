@@ -7,7 +7,7 @@ Standard ML sorting package.
 - `lib/github.com/diku-dk/sml-sort/listsort.mlb`:
 
   - **signature** [`LIST_SORT`](lib/github.com/diku-dk/sml-sort/LIST_SORT.sig)
-  - **structure** `ListSort`
+  - **structure** `ListSort` :> [`LIST_SORT`](lib/github.com/diku-dk/sml-sort/LIST_SORT.sig)
 
 ## Use of the package
 
