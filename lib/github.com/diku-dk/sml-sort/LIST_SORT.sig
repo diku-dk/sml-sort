@@ -6,10 +6,12 @@ signature LIST_SORT = sig
 end
 
 (**
+
 [sort ordr xs] sorts the list xs in nondecreasing order, using the
 given ordering.  Uses Richard O'Keefe's smooth applicative merge
 sort.
 
 [sorted ordr xs] checks that the list xs is sorted in nondecreasing
 order, in the given ordering.
+
 *)

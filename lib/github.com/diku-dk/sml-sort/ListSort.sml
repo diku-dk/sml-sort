@@ -3,6 +3,7 @@
 (** Optimized for Moscow ML                                    **)
 (** modified for the MLKit, 2001-06-07                         **)
 
+(** SigDoc *)
 structure ListSort : LIST_SORT =
   struct
     fun sort ordr xs =
